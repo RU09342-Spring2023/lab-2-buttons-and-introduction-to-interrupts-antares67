@@ -16,7 +16,7 @@
 
 
 void runCodeWithSoftwarePolling();
-void runCodeWithInterrupts();
+//void runCodeWithInterrupts();
 
 int main(){
 
