@@ -1,17 +1,8 @@
 /*
  *  Button Interrupt Example
  *
- *  Created on: Jan 30, 2023
- *      Author: Russell Trafford
- *      Version: 1.0
- *
- *      This example will show you how to configure an Interrupt and Interrupt Service Routine.
- *
- *      Your task for this lab is to change which LED each time the button has been pressed.
- *      For example, this starts blinking the Red LED, and then when the button is pressed,
- *      it should move to the Green LED. If the button is pressed again, it should move to the Red LED again.
- *
- *      There have been some "todo" notes which can be helpful in finding things to change in the code.
+ *  Created on: Feb, 2023
+ *      Author: Thomas Rasa
  */
 
 
