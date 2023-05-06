@@ -5,11 +5,7 @@
  *      Author: Thomas Rasa
  *      Version: 2.0
  *
- *      This example will show you how to configure the Pull-up Resistor for your button inputs.
- *
- *      You can comment out specific lines of code to determine the effect of the pull-up resistors on the button performance.
- *
- *      You should also notice a distinct delay between the button being pressed and the LED blinking
+ *      This example will blink LED's while the button is held down
  */
 
 #include <msp430.h>
